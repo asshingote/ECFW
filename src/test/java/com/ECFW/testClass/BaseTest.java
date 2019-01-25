@@ -58,7 +58,7 @@ public class BaseTest implements AutoConstant
 	{
 		if(browsername.equalsIgnoreCase("Firefox"))
 		{
-			//System.setProperty(GeckoExe, GeckoPath);
+			System.setProperty(GeckoExe, GeckoPath);
 			driver=new FirefoxDriver();
 		}
 		else if(browsername.equalsIgnoreCase("Chrome"))
