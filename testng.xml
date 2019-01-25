@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test thread-count="13" name="firefox" >
+  <parameter name="browsername" value="firefox"></parameter>
+    <classes>
+      <class name="com.ECFW.testClass.ExcelReaderRegitrationTest"/>
+      <class name="com.ECFW.testClass.LoginDataProviderTest"/>
+      <class name="com.ECFW.testClass.TestEngineersConnectLogin"/>
+      <class name="com.ECFW.testClass.TestMaterialSharingPage"/>
+    </classes>
+  </test> 
+ <!-- Test -->
+</suite> <!-- Suite -->
