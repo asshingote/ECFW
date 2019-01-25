@@ -1,0 +1,12 @@
+com\ECFW\genericClass\ExcelHandling.class
+com\ECFW\testClass\BaseTest.class
+com\ECFW\testClass\TestEngineersConnectLogin.class
+com\ECFW\testClass\TestMaterialSharingPage.class
+com\ECFW\genericClass\ScreenShotHandling.class
+com\ECFW\testClass\ExcelReaderRegitrationTest.class
+com\ECFW\genericClass\Listener.class
+com\ECFW\genericClass\PropertyfileHandling.class
+com\ECFW\genericClass\ExcelReader.class
+com\ECFW\genericClass\AutoConstant.class
+com\ECFW\testClass\LoginDataProviderTest.class
+com\ECFW\genericClass\CommonSeleniumMethods.class
